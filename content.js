@@ -1,2 +1,2 @@
 console.log("tokxq")
-console.log("adahe")
+console.log("qnrru")
