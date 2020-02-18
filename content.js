@@ -1,2 +1,2 @@
 console.log("tokxq")
-console.log("jcvki")
+console.log("qamdi")
