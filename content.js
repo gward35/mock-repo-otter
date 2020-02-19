@@ -1,1 +1,1 @@
-console.log("snkku")
+console.log("dnuge")
