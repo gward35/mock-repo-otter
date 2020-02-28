@@ -1,1 +1,1 @@
-console.log("dtklk")
+console.log("tnbol")
